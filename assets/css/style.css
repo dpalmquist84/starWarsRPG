@@ -1,0 +1,47 @@
+body{
+	/*background-image: url(https://images4.alphacoders.com/191/thumb-1920-19104.jpg);*/
+	
+	background-image: url(http://wallup.net/wp-content/uploads/2015/12/50724-House_Stark-Star_Wars-AT-AT-Game_of_Thrones-crossover-A_Song_of_Ice_and_Fire-Winter_Is_Coming-748x421.jpg);
+    background-size: 1460px 960px;
+}
+h1{
+	text-align: right;
+	opacity: 0.1%;
+	color: #fff;
+}
+
+h3{
+	color: #fff;
+}
+img{
+	height: 100px;
+	width: 100px;
+	z-index: 99;
+	display: center;
+}
+p{
+	color: gray;
+}
+.ben {
+	background-color: #fff;
+	border: solid green 5px;
+	color: #333;
+	text-align: center;
+
+}
+.lando{
+	background-color: #fff;
+	border: solid green 5px;
+	text-align: center;
+}
+.R2D2{
+	background-color: #fff;
+	border: solid green 5px;
+	height: 170px;
+	text-align: center;
+}
+.rey{
+	background-color: #fff;
+	border: solid green 5px;
+	text-align: center;
+}
