@@ -20,7 +20,7 @@ img{
 	display: center;
 }
 p{
-	color: gray;
+	color: black;
 }
 .ben {
 	background-color: #fff;
@@ -33,6 +33,7 @@ p{
 	background-color: #fff;
 	border: solid green 5px;
 	text-align: center;
+	height: 170px;
 }
 .R2D2{
 	background-color: #fff;
@@ -44,4 +45,15 @@ p{
 	background-color: #fff;
 	border: solid green 5px;
 	text-align: center;
+}
+#hidden{
+	display: none;
+}
+.instruc {
+	background-color: #fff;
+}
+
+.loss{
+	color: red;
+	font-size: 64px;
 }
