@@ -190,7 +190,7 @@ $('.rey').on("click",function(){
   reyGame();
 });
 
-reyGame(){
+  function reyGame(){
   $(".ben").on("mouseover", function() {
     reyHealth = reyHealth - benAttack;
     benHealth = benHealth - reyAttack;
@@ -254,7 +254,7 @@ reyGame(){
   r2d2Game();
 });
 
-r2d2Game(){
+  function r2d2Game(){
   $(".ben").on("mouseover", function() {
     R2D2Health = R2D2Health - benAttack;
     benHealth = benHealth - R2D2Attack;
@@ -310,7 +310,7 @@ r2d2Game(){
     }
   });
  };
-
+});
 
 
 
