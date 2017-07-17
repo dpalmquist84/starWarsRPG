@@ -52,6 +52,12 @@ p{
 .instruc {
 	background-color: #fff;
 }
+.hero {
+	background-color: #fff;
+	border: solid green 5px;
+	height: 170px;
+	text-align: center;
+}
 
 .loss{
 	color: red;
